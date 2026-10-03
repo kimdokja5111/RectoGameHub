@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+ <defs><linearGradient id="bg" x1="30" y1="0" x2="1170" y2="630" gradientUnits="userSpaceOnUse"><stop stop-color="#101923"/><stop offset="1" stop-color="#241a3c"/></linearGradient><linearGradient id="t" x1="140" y1="210" x2="650" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#d9ff8a"/><stop offset="1" stop-color="#93eaf3"/></linearGradient></defs>
+ <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+ <circle cx="930" cy="303" r="200" fill="#ff829f" fill-opacity=".13"/><circle cx="930" cy="303" r="135" fill="#d9ff8a" fill-opacity=".85"/>
+ <path d="M813 302h234M828 332h204M850 363h160M877 394h106" stroke="#202039" stroke-opacity=".8" stroke-width="9"/>
+ <path d="m675 475 117-100 91 90 84-142 93 152 140-109v264H675z" fill="#202a3d"/>
+ <path d="M0 0h1200v630H0z" fill="none" stroke="#b6fb58" stroke-opacity=".18" stroke-width="2"/>
+ <text x="96" y="174" fill="#b6fb58" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="5">A FIELD GUIDE TO RETRO-INSPIRED GAMES</text>
+ <text x="90" y="302" fill="url(#t)" font-family="Arial,sans-serif" font-size="96" font-weight="800" letter-spacing="-4">RETROGAMEHUB</text>
+ <text x="98" y="374" fill="#e5eaf1" font-family="Arial,sans-serif" font-size="30">Good games, found. Official links only.</text>
+ <text x="99" y="545" fill="#a0acbd" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">INDEPENDENT · ORIGINAL ART · 50 GAMES</text>
+ <path d="m1055 88 16 38 41-13-25 33 29 28-43-5-16 40-15-39-43 12 26-33-28-29 42 6z" fill="#b6fb58"/>
+</svg>
